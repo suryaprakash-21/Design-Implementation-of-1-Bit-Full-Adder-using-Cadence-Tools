@@ -42,7 +42,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 
 ## Schematic Diagram
 ### 1. Schematic of 1-Bit Full Adder:
-<img width="1600" height="996" alt="image" src="https://github.com/user-attachments/assets/c2892f7f-d643-4cba-a6a3-9905d71fa5a9" />
+<img width="1718" height="948" alt="Screenshot from 2026-03-11 15-56-31" src="https://github.com/user-attachments/assets/51b0d4b1-1545-4177-a2a0-95a50333c15b" />
 
 
 ![image](https://github.com/user-attachments/assets/1a962018-9d6b-4246-ab5f-424602551e87)
@@ -53,7 +53,7 @@ The aim is to design and implement a 1-bit Full Adder using Cadence Virtuoso and
 ### Transient Analysis Output:
 <img width="1050" height="805" alt="image" src="https://github.com/user-attachments/assets/825a94d6-3a97-4843-8233-e1c25f778fb9" />
 <img width="630" height="806" alt="image" src="https://github.com/user-attachments/assets/a7659ffc-3dc1-4d7f-a5c8-327b8d091fb4" />
-<img width="1600" height="999" alt="image" src="https://github.com/user-attachments/assets/42577902-420f-4c50-9b23-90061d0d0bae" />
+<img width="1648" height="873" alt="Screenshot from 2026-03-11 15-57-10" src="https://github.com/user-attachments/assets/90932ac3-4b89-4eb9-90c5-1610dd80b9bb" />
 
 ## Results
 1. Successfully designed the **1-bit Full Adder** schematic using **Cadence Virtuoso**.
